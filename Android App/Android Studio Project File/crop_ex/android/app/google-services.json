@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "396922839433",
+    "firebase_url": "https://cropex-f018b.firebaseio.com",
+    "project_id": "cropex-f018b",
+    "storage_bucket": "cropex-f018b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396922839433:android:2481caadbdbba1a9028158",
+        "android_client_info": {
+          "package_name": "com.example.cropex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396922839433-9lpc1jo5m9rcl01iqg6693t0fal70r48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjVSULhrVrvxOlrsQCdWH1ZcT-Ol3VU-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396922839433-9lpc1jo5m9rcl01iqg6693t0fal70r48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

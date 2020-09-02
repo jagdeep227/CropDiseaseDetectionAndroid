@@ -1,0 +1,4 @@
+0 Bacterial Spot
+1 Healthy Leaf
+2 Late Blight
+3 Yellow Leaf Curl Virus
